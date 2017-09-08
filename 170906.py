@@ -26,3 +26,6 @@ for _ in range(int(input())):
         if (row, col) == (0, k-1): break
         row += 1; col += 1
     print(mtx)
+      ###
+def foo1():
+    pass
