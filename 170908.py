@@ -21,6 +21,17 @@ for _ in range(m-1):
     print(arr2,'**')
     arr1 = arr2[:]
 print(arr2[-1])
+# for _ in range(m-1):
+#     tp = tuple(map(int, read().split()))
+#     t_sum = tuple([sum(tp[:i+1]) for i in range(m)])
+#     for i in range(1):
+#         arr2[i] = arr1[i] + tp[i]
+#         for j in range(i):
+#             arr2[i] = max(arr2[i], t_sum[i] + arr1[j] - t_sum[j])
+#         for j in range(i+1, m):
+#             arr2[i] = max(arr2[i], t_sum[j] + arr1[j] - t_sum[j-1])
+#     arr1 = arr2[:]
+# print(arr2)
 
 '''
  10   38   42   50   63
