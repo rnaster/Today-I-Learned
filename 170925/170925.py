@@ -22,8 +22,26 @@ class MyParser(HTMLParser):
         self.dict[self.label_].append(data.strip())
 
 parser = MyParser()
-with open('../연구실목록.txt', 'r') as f:
+with open('연구실목록.txt', 'r') as f:
     html = f.read()
 parser.feed(html)
 # for key, value in parser.dict.items():
 #     print(key, value)
+
+import re
+string1 = 'Earth is the third planet from the Sun'
+pat = re.compile(r'(\w{2})([\w]+| )', re.I)
+result = re.findall(pat, string1)
+# for i,_ in result:
+#     print(i, end=' ')
+
+string2 = 'abc.test@gmail.com, xyz@test.in, test.first@analyicsvidhya.com, first@rest.biz'
+pat = re.compile(r'@[\w.,]+')
+# print(re.findall(pat, string2))
+
+string3 = 'Amit 34-3456 12-05-2007, XYZ 56-4532 11-11-2011, ABC 67-8945 12-01-2009'
+pat = re.compile(r'\d{2}-\d{2}-\d{4}')
+# print(re.findall(pat, string3))
+
+string4 = 'Earth`s gravity interacts with other objects in space, especially the Sun and the Moon.'
+# pat = re.compile(r'')

@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2df56d20-56de-4b48-80b5-73b6a03e0a30" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170925.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/170925/170925.py" afterPath="$PROJECT_DIR$/170925/170925.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,20 +15,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="170925.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/170925.py">
+        <entry file="file://$PROJECT_DIR$/170925/170925.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
+            <state relative-caret-position="180">
               <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="parser.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Anaconda3/Lib/html/parser.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-59">
-              <caret line="425" column="21" lean-forward="false" selection-start-line="425" selection-start-column="21" selection-end-line="425" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -62,6 +53,7 @@
         <option value="$PROJECT_DIR$/170919.py" />
         <option value="$PROJECT_DIR$/170920.py" />
         <option value="$PROJECT_DIR$/170925.py" />
+        <option value="$PROJECT_DIR$/170925/170925.py" />
       </list>
     </option>
   </component>
@@ -88,7 +80,7 @@
     <panes />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/170925/170925.py" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -102,24 +94,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.170925">
-    <configuration name="170914" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="today-i-learned" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/170914.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.170925 (1)">
     <configuration name="170915" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,6 +146,23 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="170925 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/170925" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="today-i-learned" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/170925/170925.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="170925" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -189,19 +181,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.170914" />
-      <item index="1" class="java.lang.String" itemvalue="Python.170915" />
-      <item index="2" class="java.lang.String" itemvalue="Python.170919" />
-      <item index="3" class="java.lang.String" itemvalue="Python.170920" />
-      <item index="4" class="java.lang.String" itemvalue="Python.170925" />
+      <item index="0" class="java.lang.String" itemvalue="Python.170915" />
+      <item index="1" class="java.lang.String" itemvalue="Python.170919" />
+      <item index="2" class="java.lang.String" itemvalue="Python.170920" />
+      <item index="3" class="java.lang.String" itemvalue="Python.170925" />
+      <item index="4" class="java.lang.String" itemvalue="Python.170925 (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.170925" />
-        <item index="1" class="java.lang.String" itemvalue="Python.170920" />
-        <item index="2" class="java.lang.String" itemvalue="Python.170919" />
-        <item index="3" class="java.lang.String" itemvalue="Python.170915" />
-        <item index="4" class="java.lang.String" itemvalue="Python.170914" />
+        <item index="0" class="java.lang.String" itemvalue="Python.170925 (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.170925" />
+        <item index="2" class="java.lang.String" itemvalue="Python.170920" />
+        <item index="3" class="java.lang.String" itemvalue="Python.170919" />
+        <item index="4" class="java.lang.String" itemvalue="Python.170915" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +246,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -279,14 +271,14 @@
     <MESSAGE value="BOJ - 10164 미완성 ㅠㅠ" />
     <MESSAGE value="BOJ - 9498, 1924, 10871, 2839" />
     <MESSAGE value="BOJ - 11055" />
-    <option name="LAST_COMMIT_MESSAGE" value="BOJ - 11055" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/170925.py">
+    <entry file="file://$PROJECT_DIR$/170925/170925.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -294,6 +286,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/170925/170925.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/170925.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/html/parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18945">
+          <caret line="425" column="21" lean-forward="false" selection-start-line="425" selection-start-column="21" selection-end-line="425" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/170925.py" />
     <entry file="file://$PROJECT_DIR$/170920.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
@@ -364,17 +374,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/170925.py" />
     <entry file="file://$USER_HOME$/Anaconda3/Lib/html/parser.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-59">
-          <caret line="425" column="21" lean-forward="false" selection-start-line="425" selection-start-column="21" selection-end-line="425" selection-end-column="21" />
+        <state relative-caret-position="45">
+          <caret line="419" column="0" lean-forward="false" selection-start-line="419" selection-start-column="0" selection-end-line="419" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/170925.py">
+    <entry file="file://$PROJECT_DIR$/170925/170925.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
+        <state relative-caret-position="180">
           <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
