@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2df56d20-56de-4b48-80b5-73b6a03e0a30" name="Default" comment="BOJ -">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/171002.py" />
+    <list default="true" id="2df56d20-56de-4b48-80b5-73b6a03e0a30" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/171004.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,12 +14,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="171002.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/171002.py">
+      <file leaf-file-name="171004.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/171004.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-              <folding />
+            <state relative-caret-position="367">
+              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding>
+                <element signature="e#826#855#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -60,6 +62,7 @@
         <option value="$PROJECT_DIR$/170928.py" />
         <option value="$PROJECT_DIR$/170930.py" />
         <option value="$PROJECT_DIR$/171002.py" />
+        <option value="$PROJECT_DIR$/171004.py" />
       </list>
     </option>
   </component>
@@ -114,24 +117,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.171002">
-    <configuration name="170926 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="today-i-learned" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/170926.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.171004">
     <configuration name="170927" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,20 +186,37 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="171004" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Today-I-Learned" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/171004.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.170926 (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Python.170927" />
-      <item index="2" class="java.lang.String" itemvalue="Python.170928" />
-      <item index="3" class="java.lang.String" itemvalue="Python.170930" />
-      <item index="4" class="java.lang.String" itemvalue="Python.171002" />
+      <item index="0" class="java.lang.String" itemvalue="Python.170927" />
+      <item index="1" class="java.lang.String" itemvalue="Python.170928" />
+      <item index="2" class="java.lang.String" itemvalue="Python.170930" />
+      <item index="3" class="java.lang.String" itemvalue="Python.171002" />
+      <item index="4" class="java.lang.String" itemvalue="Python.171004" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.171002" />
-        <item index="1" class="java.lang.String" itemvalue="Python.170930" />
-        <item index="2" class="java.lang.String" itemvalue="Python.170928" />
-        <item index="3" class="java.lang.String" itemvalue="Python.170927" />
-        <item index="4" class="java.lang.String" itemvalue="Python.170926 (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Python.171004" />
+        <item index="1" class="java.lang.String" itemvalue="Python.171002" />
+        <item index="2" class="java.lang.String" itemvalue="Python.170930" />
+        <item index="3" class="java.lang.String" itemvalue="Python.170928" />
+        <item index="4" class="java.lang.String" itemvalue="Python.170927" />
       </list>
     </recent_temporary>
   </component>
@@ -298,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1506785434846</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="BOJ - 1038, 2410">
+      <created>1506975424863</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1506975424864</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -339,18 +349,26 @@
     <MESSAGE value="python TF_IDF" />
     <MESSAGE value="python recovery" />
     <MESSAGE value="BOJ - 1793" />
-    <option name="LAST_COMMIT_MESSAGE" value="BOJ - 1793" />
+    <MESSAGE value="BOJ - 1038, 2410" />
+    <option name="LAST_COMMIT_MESSAGE" value="BOJ - 1038, 2410" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/170930.py">
+    <entry file="file://$PROJECT_DIR$/171002.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/170930.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -537,15 +555,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/171002.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        <state relative-caret-position="45">
+          <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/171004.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding>
+            <element signature="e#826#855#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
