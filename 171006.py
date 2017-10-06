@@ -10,12 +10,7 @@ arr = array('I', [0 for _ in range(inner)])
 for row in range(outer):
     temp = array('I', [0 for _ in range(inner)])
     for col in range(1, inner):
-        if char1[row] == char2[col-1]:
-            if row == 0 or col == 1: temp[col] = 1
-            else: temp[col] = max(arr[:col]) + 1
-        else:
-            pass
-        arr[col] = max(arr[col], temp[col])
-    print(temp)
-    print(arr,'*')
+        if char1[row] == char2[col-1]: temp[col] = max(arr[:col]) + 1
+        else: temp[col] = max(arr[col], temp[col-1])
+    arr = temp[:]
 stdout.write(str(max(arr)))
