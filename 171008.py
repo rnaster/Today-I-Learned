@@ -57,10 +57,9 @@ for i in range(n):
     bd = min(n, i + tp[i] + 1)
     for j in range(i + 1, bd):
         dp[j] = min(dp[j], dp[i] + 1)
-if n == 1 and tp[0] != 0:
-    stdout.write('1')
+if n == 1:
+    if tp[0]: stdout.write('1')
+    else: stdout.write('0')
 else:
-    if dp[-1] == 1001 or tp[0] == 0:
-        stdout.write('-1')
-    else:
-        stdout.write(str(dp[-1]))
+    if dp[-1] == 1001 or tp[0] == 0: stdout.write('-1')
+    else: stdout.write(str(dp[-1]))
