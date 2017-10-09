@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2df56d20-56de-4b48-80b5-73b6a03e0a30" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/171008.py" afterPath="$PROJECT_DIR$/171008.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,8 +16,8 @@
       <file leaf-file-name="171008.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/171008.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="64" column="35" lean-forward="true" selection-start-line="64" selection-start-column="35" selection-end-line="64" selection-end-column="35" />
+            <state relative-caret-position="225">
+              <caret line="53" column="41" lean-forward="true" selection-start-line="53" selection-start-column="41" selection-end-line="53" selection-end-column="41" />
               <folding>
                 <element signature="e#1027#1056#0" expanded="true" />
               </folding>
@@ -352,7 +351,14 @@
       <option name="project" value="LOCAL" />
       <updated>1507481574095</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="BOJ - 11722, 11060">
+      <created>1507528364656</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1507528364657</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -398,7 +404,8 @@
     <MESSAGE value="BOJ - 9251 미완성" />
     <MESSAGE value="BOJ - 9251" />
     <MESSAGE value="BOJ - 11722, 11060 100퍼에서 틀림 아 짜증 ㅡㅡ" />
-    <option name="LAST_COMMIT_MESSAGE" value="BOJ - 11722, 11060 100퍼에서 틀림 아 짜증 ㅡㅡ" />
+    <MESSAGE value="BOJ - 11722, 11060" />
+    <option name="LAST_COMMIT_MESSAGE" value="BOJ - 11722, 11060" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -645,8 +652,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/171008.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="64" column="35" lean-forward="true" selection-start-line="64" selection-start-column="35" selection-end-line="64" selection-end-column="35" />
+        <state relative-caret-position="225">
+          <caret line="53" column="41" lean-forward="true" selection-start-line="53" selection-start-column="41" selection-end-line="53" selection-end-column="41" />
           <folding>
             <element signature="e#1027#1056#0" expanded="true" />
           </folding>
