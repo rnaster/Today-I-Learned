@@ -6,8 +6,8 @@ n, m = map(int, read().split())
 Mem = tuple(map(int, read().split()))
 cost = tuple(map(int, read().split()))
 dp = [[-1 for _ in range(sum(cost)+1)] for _ in range(n+1)]
-for i in range(n):
-    dp[1][cost[i]] = max(dp[1][cost[i]], Mem[i])
+# for i in range(n):
+#     dp[1][cost[i]] = max(dp[1][cost[i]], Mem[i])
 ans = 10001
 def main_(i, C):
     global ans, dp
@@ -23,17 +23,21 @@ def main_(i, C):
         dp[i][C] = val
         return val
 
-main_(n, sum(cost))
-pprint(dp)
+# main_(n, sum(cost))
+# pprint(dp)
 
 def main(i, C):
     global ans, dp
+    print(i, C)
+    pprint(dp)
+    print()
     if i == 0:
         dp[i][C] = 0
+        # print(0, i, C, '*', '\n')
         return 0
-    if C == 0:
-        dp[i][C] = main(i-1, C)
-        return dp[i][C]
+    # if C == 0:
+    #     dp[i][C] = main(i-1, C)
+    #     return dp[i][C]
     else:
         if C >= cost[i-1]:
             if dp[i-1][C] != -1 and dp[i-1][C-cost[i-1]] == -1:
@@ -55,9 +59,10 @@ def main(i, C):
             dp[i][C] = max(dp[i][C], val)
             if dp[i][C] >= m: ans = min(ans, C)
             return dp[i][C]
-# main(n, sum(cost))
-# pprint(dp)
-# print(ans)
+main(n, sum(cost))
+print()
+pprint(dp)
+print(ans)
 
 '''
 4 10
@@ -67,4 +72,8 @@ def main(i, C):
 5 60
 30 10 20 35 40
 3 0 3 5 4
+
+3 9
+30 10 20
+3 0 3
 '''
