@@ -1,7 +1,6 @@
 # Knapsack algo.
 from sys import stdin
 from array import array
-from bisect import bisect_left as bi
 read = lambda: stdin.readline().rstrip()
 def Knapsack():
     n, w = map(int, read().split())
@@ -45,40 +44,59 @@ def Knapsack():
     2 3 4 5 9 2 3 4 5 9 2 3 4 5 9 2 3 4 5 9 2 3 4 5 9 2 3 4 5 9 2 3 4 5 9 2 3 4 5 9
     3 4 5 8 10 4 6 11 2 20 3 4 5 8 10 4 6 11 2 20 3 4 5 8 10 4 6 11 2 20 3 4 5 8 10 4 6 11 2 20
     '''
-
-n, t = map(int, read().split())
-Ws = tuple(map(int, read().split()))
-val = tuple(map(int, read().split()))
-arr = array('L', [Ws[0]])
-dp = array('H', [val[0]])
-ans = 101
-for i in range(1, n):
-    for j in range(len(arr)):
-        wei = arr[j] + Ws[i]
-        if t < wei: continue
-        if wei > arr[-1]:
-            arr.append(wei)
-            dp.append(dp[j] + val[i])
-        else:
-            idx = bi(arr, wei)
-            if arr[idx] == wei:
-                dp[idx] = min(dp[idx], dp[j] + val[i])
+def fun(n, t, Ws, val):
+    arr = array('L', [Ws[0]])
+    dp = array('H', [val[0]])
+    ans = 10001
+    for i in range(1, n):
+        for j in range(len(arr)):
+            wei = arr[j] + Ws[i]
+            if t < wei: continue
+            if wei > arr[-1]:
+                arr.append(wei)
+                dp.append(dp[j] + val[i])
             else:
-                arr.insert(idx, wei)
-                dp.insert(idx, dp[j] + val[i])
-    if arr[-1] < Ws[i]:
-        arr.append(Ws[i])
-        dp.append(val[i])
-    else:
-        idx = bi(arr, Ws[i])
-        if arr[idx] == Ws[i]:
-            dp[idx] = min(dp[idx], val[i])
+                idx = bi(arr, wei)
+                if arr[idx] == wei:
+                    dp[idx] = min(dp[idx], dp[j] + val[i])
+                else:
+                    arr.insert(idx, wei)
+                    dp.insert(idx, dp[j] + val[i])
+        if arr[-1] < Ws[i]:
+            arr.append(Ws[i])
+            dp.append(val[i])
         else:
-            arr.insert(idx, Ws[i])
-            dp.insert(idx, val[i])
-    ans = min(ans, dp[-1]) if arr[-1] == t else ans
+            idx = bi(arr, Ws[i])
+            if arr[idx] == Ws[i]:
+                dp[idx] = min(dp[idx], val[i])
+            else:
+                arr.insert(idx, Ws[i])
+                dp.insert(idx, val[i])
+        ans = min(ans, dp[-1]) if arr[-1] == t else ans
+    print(ans)
+    print(arr)
+    print(dp)
+
+# BOJ - 7579
+n, t = map(int, read().split())
+Mem = tuple(map(int, read().split()))
+cost = tuple(map(int, read().split()))
+dp1 = tuple([0 for _ in range(t+1)])
+ans = 10001
+for i in range(n):
+    dp2 = array('L', [0 for _ in range(t+1)])
+    for j in range(t+1):
+        if j >= cost[i]:
+            dp2[j] = max(dp1[j], dp1[j-cost[i]] + Mem[i])
+        else:
+            dp2[j] = dp1[j]
+        if dp2[j] >= t: ans = min(ans, j)
+    dp1 = tuple(dp2[:])
 print(ans)
-print(arr)
-print(dp)
-# n^2*logn -> n^2으로 줄일것.
-# w보다 큰경우에도 답이 나올까..?
+
+
+'''
+5 10
+1 2 3 4 5
+5 0 3 2 1
+'''
