@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3f7e58c-e206-4ac6-95eb-52b8da83c8f4" name="Default" comment="BOJ - 1085, 2851">
-      <change afterPath="$PROJECT_DIR$/2018/1810/181026.py" afterDir="false" />
+    <list default="true" id="e3f7e58c-e206-4ac6-95eb-52b8da83c8f4" name="Default" comment="BOJ - 1788">
+      <change afterPath="$PROJECT_DIR$/2018/1810/181028.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,46 +15,47 @@
     <session id="-419307616">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="4533" />
-          <entry key="txt" value="55" />
+          <entry key="py" value="8386" />
+          <entry key="txt" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="55" />
-          <entry key="Python" value="4533" />
+          <entry key="PLAIN_TEXT" value="59" />
+          <entry key="Python" value="8386" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="5" />
+          <entry key="py" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="5" />
+          <entry key="Python" value="7" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2018/1810/181026.py">
+        <entry file="file://$PROJECT_DIR$/2018/1810/181028.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            <state relative-caret-position="35">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="69" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -91,6 +92,8 @@
         <option value="$PROJECT_DIR$/2018/1810/181022.py" />
         <option value="$PROJECT_DIR$/2018/1810/181024.py" />
         <option value="$PROJECT_DIR$/2018/1810/181026.py" />
+        <option value="$PROJECT_DIR$/2018/1810/181027.py" />
+        <option value="$PROJECT_DIR$/2018/1810/181028.py" />
       </list>
     </option>
   </component>
@@ -162,49 +165,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.181026">
-    <configuration name="181014" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Today-I-Learned" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2018/1810" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2018/1810/181014.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="181015" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Today-I-Learned" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2018/1810" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2018/1810/181015.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.181028">
     <configuration name="181019" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Today-I-Learned" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -268,20 +229,62 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="181027" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Today-I-Learned" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2018/1810" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2018/1810/181027.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="181028" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Today-I-Learned" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2018/1810" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2018/1810/181028.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.181014" />
-      <item itemvalue="Python.181015" />
       <item itemvalue="Python.181019" />
       <item itemvalue="Python.181022" />
       <item itemvalue="Python.181026" />
+      <item itemvalue="Python.181027" />
+      <item itemvalue="Python.181028" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.181028" />
+        <item itemvalue="Python.181027" />
         <item itemvalue="Python.181026" />
         <item itemvalue="Python.181022" />
         <item itemvalue="Python.181019" />
-        <item itemvalue="Python.181015" />
-        <item itemvalue="Python.181014" />
       </list>
     </recent_temporary>
   </component>
@@ -401,7 +404,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540393684895</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="BOJ - 1788">
+      <created>1540485765242</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1540485765243</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -414,7 +424,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32839224" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39908257" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39794755" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -447,7 +457,8 @@
     <MESSAGE value="BOJ - 11058" />
     <MESSAGE value="BOJ - 1012" />
     <MESSAGE value="BOJ - 1085, 2851" />
-    <option name="LAST_COMMIT_MESSAGE" value="BOJ - 1085, 2851" />
+    <MESSAGE value="BOJ - 1788" />
+    <option name="LAST_COMMIT_MESSAGE" value="BOJ - 1788" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/2018/1806/180629.py">
@@ -559,7 +570,21 @@
     <entry file="file://$PROJECT_DIR$/2018/1810/181026.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
-          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018/1810/181027.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018/1810/181028.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="69" selection-end-column="26" />
         </state>
       </provider>
     </entry>
