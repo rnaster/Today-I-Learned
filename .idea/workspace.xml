@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3f7e58c-e206-4ac6-95eb-52b8da83c8f4" name="Default" comment="BOJ - 6416">
-      <change afterPath="$PROJECT_DIR$/2018/1811/181104.py" afterDir="false" />
+    <list default="true" id="e3f7e58c-e206-4ac6-95eb-52b8da83c8f4" name="Default" comment="BOJ - 10835">
+      <change afterPath="$PROJECT_DIR$/2018/1811/181105.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,59 +15,50 @@
     <session id="-419307616">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
-          <entry key="project.open.time.10" value="2" />
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="4" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="13695" />
-          <entry key="txt" value="76" />
+          <entry key="py" value="14231" />
+          <entry key="txt" value="81" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="76" />
-          <entry key="Python" value="13695" />
+          <entry key="PLAIN_TEXT" value="81" />
+          <entry key="Python" value="14231" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="11" />
+          <entry key="py" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="11" />
+          <entry key="Python" value="12" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2018/1811/181102.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="24" column="78" selection-start-line="24" selection-start-column="78" selection-end-line="24" selection-end-column="78" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2018/1811/181104.py">
+        <entry file="file://$PROJECT_DIR$/2018/1811/181105.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1085">
-              <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+            <state relative-caret-position="700">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               <folding>
-                <marker date="1541338467321" expanded="true" signature="229:230" ph="..." />
+                <element signature="e#13#42#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -111,6 +102,7 @@
         <option value="$PROJECT_DIR$/2018/1811/181101.py" />
         <option value="$PROJECT_DIR$/2018/1811/181102.py" />
         <option value="$PROJECT_DIR$/2018/1811/181104.py" />
+        <option value="$PROJECT_DIR$/2018/1811/181105.py" />
       </list>
     </option>
   </component>
@@ -142,7 +134,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -165,6 +156,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -182,28 +174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.181104">
-    <configuration name="181028" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Today-I-Learned" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2018/1810" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2018/1810/181028.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.181105">
     <configuration name="181030" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Today-I-Learned" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -288,20 +259,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="181105" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Today-I-Learned" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2018/1811" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2018/1811/181105.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.181028" />
       <item itemvalue="Python.181030" />
       <item itemvalue="Python.181101" />
       <item itemvalue="Python.181102" />
       <item itemvalue="Python.181104" />
+      <item itemvalue="Python.181105" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.181105" />
         <item itemvalue="Python.181104" />
         <item itemvalue="Python.181102" />
         <item itemvalue="Python.181101" />
         <item itemvalue="Python.181030" />
-        <item itemvalue="Python.181028" />
       </list>
     </recent_temporary>
   </component>
@@ -456,7 +448,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541168942805</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="BOJ - 10835">
+      <created>1541338682195</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1541338682195</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -507,7 +506,8 @@
     <MESSAGE value="BOJ - 2602" />
     <MESSAGE value="BOJ - 2504" />
     <MESSAGE value="BOJ - 6416" />
-    <option name="LAST_COMMIT_MESSAGE" value="BOJ - 6416" />
+    <MESSAGE value="BOJ - 10835" />
+    <option name="LAST_COMMIT_MESSAGE" value="BOJ - 10835" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/2018/1806/180629.py">
@@ -654,10 +654,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2018/1811/181104.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1085">
-          <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+        <state relative-caret-position="280">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <marker date="1541338467321" expanded="true" signature="229:230" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018/1811/181105.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#13#42#0" expanded="true" />
           </folding>
         </state>
       </provider>
