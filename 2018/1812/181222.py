@@ -10,8 +10,7 @@ for i in map(int, input().split()):
 a, b = min(l), max(l)
 if m == 10: print(abs(int(n)-100));exit()
 p, q = '', ''
-if n[0] == '1':
-
+if n[0] == '1':pass
 """
 5457
 3
