@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3f7e58c-e206-4ac6-95eb-52b8da83c8f4" name="Default" comment="BOJ - 3005, 5046, 10984">
-      <change afterPath="$PROJECT_DIR$/2019/1901/190113.py" afterDir="false" />
+    <list default="true" id="e3f7e58c-e206-4ac6-95eb-52b8da83c8f4" name="Default" comment="BOJ - 2342 fail, 2618 fail, 2666">
+      <change afterPath="$PROJECT_DIR$/2019/1901/190114.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,7 +15,7 @@
     <session id="-419307616">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="45" />
+          <entry key="project.closed" value="46" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.12" value="1" />
@@ -24,63 +24,45 @@
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="6" />
-          <entry key="project.open.time.7" value="10" />
+          <entry key="project.open.time.7" value="11" />
           <entry key="project.open.time.8" value="11" />
           <entry key="project.open.time.9" value="8" />
-          <entry key="project.opened" value="46" />
+          <entry key="project.opened" value="47" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="586" />
           <entry key="dummy" value="4" />
-          <entry key="py" value="39002" />
-          <entry key="txt" value="327" />
+          <entry key="py" value="40545" />
+          <entry key="txt" value="360" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="331" />
-          <entry key="Python" value="39588" />
+          <entry key="PLAIN_TEXT" value="364" />
+          <entry key="Python" value="41131" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="48" />
+          <entry key="py" value="49" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="48" />
+          <entry key="Python" value="49" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2019/1901/190111.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2019/1901/190112.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="773">
-              <caret line="41" column="10" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2019/1901/190113.py">
+        <entry file="file://$PROJECT_DIR$/2019/1901/190114.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            <state>
+              <caret column="8" selection-start-column="8" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -100,7 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2018/1808/180822.py" />
         <option value="$PROJECT_DIR$/2018/1808/180827.py" />
         <option value="$PROJECT_DIR$/2018/1808/180829.py" />
         <option value="$PROJECT_DIR$/2018/1808/180831.py" />
@@ -151,6 +132,7 @@
         <option value="$PROJECT_DIR$/2019/1901/190111.py" />
         <option value="$PROJECT_DIR$/2019/1901/190112.py" />
         <option value="$PROJECT_DIR$/2019/1901/190113.py" />
+        <option value="$PROJECT_DIR$/2019/1901/190114.py" />
       </list>
     </option>
   </component>
@@ -169,7 +151,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>PyTypeCheckerInspection</id>
+            <id>PyUnreachableCodeInspection</id>
           </State>
         </selected-state>
       </profile-state>
@@ -230,7 +212,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.190113">
+  <component name="RunManager" selected="Python.190114">
     <configuration name="190110" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Today-I-Learned" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -315,7 +297,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="20190107" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="190114" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Today-I-Learned" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -327,7 +309,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\yun\Desktop\Today-I-Learned\2019\1901\190107.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019/1901/190114.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -337,19 +319,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.20190107" />
       <item itemvalue="Python.190110" />
       <item itemvalue="Python.190111" />
       <item itemvalue="Python.190112" />
       <item itemvalue="Python.190113" />
+      <item itemvalue="Python.190114" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.190114" />
         <item itemvalue="Python.190113" />
         <item itemvalue="Python.190112" />
         <item itemvalue="Python.190111" />
         <item itemvalue="Python.190110" />
-        <item itemvalue="Python.20190107" />
       </list>
     </recent_temporary>
   </component>
@@ -363,13 +345,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530279640320</updated>
-    </task>
-    <task id="LOCAL-00003" summary="BOJ - 2666 미완성,,, 엉터리 코드,,,">
-      <created>1530722427588</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1530722427588</updated>
     </task>
     <task id="LOCAL-00004" summary="BOJ - 1475">
       <created>1534173885713</created>
@@ -707,7 +682,14 @@
       <option name="project" value="LOCAL" />
       <updated>1547306866323</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="BOJ - 2342 fail, 2618 fail, 2666">
+      <created>1547387635941</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1547387635943</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -738,7 +720,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BOJ - 2616 실패" />
     <MESSAGE value="BOJ - 1790 실패" />
     <MESSAGE value="BOJ - 5567" />
     <MESSAGE value="BOJ - 2960" />
@@ -763,16 +744,10 @@
     <MESSAGE value="." />
     <MESSAGE value="BOJ - 2979, 5624 fail, 2037" />
     <MESSAGE value="BOJ - 3005, 5046, 10984" />
-    <option name="LAST_COMMIT_MESSAGE" value="BOJ - 3005, 5046, 10984" />
+    <MESSAGE value="BOJ - 2342 fail, 2618 fail, 2666" />
+    <option name="LAST_COMMIT_MESSAGE" value="BOJ - 2342 fail, 2618 fail, 2666" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2018/1808/180813.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2018/1808/180816.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
@@ -1078,10 +1053,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2019/1901/190111.py">
+    <entry file="file://$PROJECT_DIR$/2019/1901/190113.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="50">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -1092,10 +1067,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2019/1901/190113.py">
+    <entry file="file://$PROJECT_DIR$/2019/1901/190111.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        <state relative-caret-position="500">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/1901/190114.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
