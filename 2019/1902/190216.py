@@ -1,6 +1,6 @@
 # BOJ - 2159
 from sys import stdin, setrecursionlimit
-setrecursionlimit(10000000)
+setrecursionlimit(1000000000)
 read = lambda: stdin.readline().rstrip()
 n = int(read())
 dp = [[-1] * (100000+1) for _ in range(4)]
@@ -14,18 +14,16 @@ def func(a, i, j):
     return abs(p-r) + abs(q-s)
 def main(a, b):
     global dp, l
-    if dp[a][b] != -1: return dp[a][b]
+    if dp[b][a] != -1: return dp[b][a]
     if a == n:
-        dp[a][b] = 0
+        dp[b][a] = 0
         return 0
     else:
         temp = 10**10+1
         for i in range(4):
-            temp = min(temp,
-                       dp[a+1][i] + func(a, b, i)
-                       if dp[a+1][i] != -1 else main(a+1, i) + func(a, b, i))
-        dp[a][b] = temp
-        return dp[a][b]
+            temp = min(temp, dp[i][a+1] + func(a, b, i) if dp[i][a+1] != -1 else main(a+1, i) + func(a, b, i))
+        dp[b][a] = temp
+        return dp[b][a]
 for i in range(4):
     main(1, i)
 c = []
