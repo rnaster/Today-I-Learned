@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3f7e58c-e206-4ac6-95eb-52b8da83c8f4" name="Default" comment="BOJ - 2228 fail, 5032">
-      <change afterPath="$PROJECT_DIR$/2019/1903/190326.py" afterDir="false" />
+    <list default="true" id="e3f7e58c-e206-4ac6-95eb-52b8da83c8f4" name="Default" comment="BOJ - 2140, 1713">
+      <change afterPath="$PROJECT_DIR$/2019/1903/190327.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,13 +16,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2019/1903/190326.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="30" column="16" lean-forward="true" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2019/1903/190327.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -45,7 +46,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2019/1901/190113.py" />
         <option value="$PROJECT_DIR$/2019/1901/190114.py" />
         <option value="$PROJECT_DIR$/2019/1901/190115.py" />
         <option value="$PROJECT_DIR$/2019/1901/190119.py" />
@@ -96,6 +96,7 @@
         <option value="$PROJECT_DIR$/2019/1903/190324.py" />
         <option value="$PROJECT_DIR$/2019/1903/190325.py" />
         <option value="$PROJECT_DIR$/2019/1903/190326.py" />
+        <option value="$PROJECT_DIR$/2019/1903/190327.py" />
       </list>
     </option>
   </component>
@@ -188,28 +189,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.190326">
-    <configuration name="190320" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="today-i-learned" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019/1903" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019/1903/190320.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.190327">
     <configuration name="190323" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="today-i-learned" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -294,20 +274,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="190327" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="today-i-learned" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019/1903" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019/1903/190327.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.190320" />
       <item itemvalue="Python.190323" />
       <item itemvalue="Python.190324" />
       <item itemvalue="Python.190325" />
       <item itemvalue="Python.190326" />
+      <item itemvalue="Python.190327" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.190327" />
         <item itemvalue="Python.190326" />
         <item itemvalue="Python.190325" />
         <item itemvalue="Python.190324" />
         <item itemvalue="Python.190323" />
-        <item itemvalue="Python.190320" />
       </list>
     </recent_temporary>
   </component>
@@ -321,13 +322,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530279640320</updated>
-    </task>
-    <task id="LOCAL-00042" summary="BOJ - 4781 array.array는 한번만 init하기.">
-      <created>1545151008985</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1545151008986</updated>
     </task>
     <task id="LOCAL-00043" summary="BOJ - 10253">
       <created>1545322033883</created>
@@ -665,7 +659,14 @@
       <option name="project" value="LOCAL" />
       <updated>1553501843485</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="BOJ - 2140, 1713">
+      <created>1553610431737</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1553610431737</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TodoView">
@@ -702,7 +703,6 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BOJ - 10798, 1159" />
     <MESSAGE value="BOJ - 1712, 1016 fail, 1629" />
     <MESSAGE value="BOJ - 10996, 10997, 13015" />
     <MESSAGE value="BOJ - 2098 fail 진짜 모르겠다 ㅡㅡ" />
@@ -727,16 +727,10 @@
     <MESSAGE value="BOJ - 2228 fail" />
     <MESSAGE value="BOJ - 2228 fail, 5032" />
     <MESSAGE value="BOJ - 5212, 2823" />
-    <option name="LAST_COMMIT_MESSAGE" value="BOJ - 5212, 2823" />
+    <MESSAGE value="BOJ - 2140, 1713" />
+    <option name="LAST_COMMIT_MESSAGE" value="BOJ - 2140, 1713" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2019/1901/190113.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2019/1901/190112.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="773">
@@ -1034,11 +1028,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2019/1903/190326.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="30" column="16" lean-forward="true" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/1903/190327.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
