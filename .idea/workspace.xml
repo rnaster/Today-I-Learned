@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3f7e58c-e206-4ac6-95eb-52b8da83c8f4" name="Default" comment="BOJ - 16677, 16674">
-      <change afterPath="$PROJECT_DIR$/2019/1903/190329.py" afterDir="false" />
+    <list default="true" id="e3f7e58c-e206-4ac6-95eb-52b8da83c8f4" name="Default" comment="BOJ - 5721">
+      <change afterPath="$PROJECT_DIR$/2019/1903/190331.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,9 +26,18 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2019/1903/190329.py">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2019/1903/190331.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="497">
+              <caret line="43" column="12" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="43" selection-end-column="12" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -51,7 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2019/1901/190119.py" />
         <option value="$PROJECT_DIR$/2019/1901/190120.py" />
         <option value="$PROJECT_DIR$/2019/1901/190121.py" />
         <option value="$PROJECT_DIR$/2019/1901/190122.py" />
@@ -102,6 +110,7 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/2019/1903/190328.py" />
         <option value="$PROJECT_DIR$/2019/1903/190329.py" />
+        <option value="$PROJECT_DIR$/2019/1903/190331.py" />
       </list>
     </option>
   </component>
@@ -136,28 +145,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="today-i-learned" type="b2602c69:ProjectViewProjectNode" />
-              <item name="today-i-learned" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="today-i-learned" type="b2602c69:ProjectViewProjectNode" />
-              <item name="today-i-learned" type="462c0819:PsiDirectoryNode" />
-              <item name="2019" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="today-i-learned" type="b2602c69:ProjectViewProjectNode" />
-              <item name="today-i-learned" type="462c0819:PsiDirectoryNode" />
-              <item name="2019" type="462c0819:PsiDirectoryNode" />
-              <item name="1903" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Default'; set:Default; class com.intellij.packageDependencies.ChangeListScope">
           <expand>
@@ -208,6 +195,28 @@
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="today-i-learned" type="b2602c69:ProjectViewProjectNode" />
+              <item name="today-i-learned" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="today-i-learned" type="b2602c69:ProjectViewProjectNode" />
+              <item name="today-i-learned" type="462c0819:PsiDirectoryNode" />
+              <item name="2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="today-i-learned" type="b2602c69:ProjectViewProjectNode" />
+              <item name="today-i-learned" type="462c0819:PsiDirectoryNode" />
+              <item name="2019" type="462c0819:PsiDirectoryNode" />
+              <item name="1903" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -233,28 +242,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.190329">
-    <configuration name="190324" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="today-i-learned" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019/1903" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019/1903/190324.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.190331">
     <configuration name="190325" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="today-i-learned" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -339,20 +327,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="190331" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="today-i-learned" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019/1903" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019/1903/190331.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.190324" />
       <item itemvalue="Python.190325" />
       <item itemvalue="Python.190326" />
       <item itemvalue="Python.190327" />
       <item itemvalue="Python.190329" />
+      <item itemvalue="Python.190331" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.190331" />
         <item itemvalue="Python.190329" />
         <item itemvalue="Python.190327" />
         <item itemvalue="Python.190326" />
         <item itemvalue="Python.190325" />
-        <item itemvalue="Python.190324" />
       </list>
     </recent_temporary>
   </component>
@@ -366,13 +375,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530279640320</updated>
-    </task>
-    <task id="LOCAL-00044" summary="BOJ - 1188 실패">
-      <created>1546069028242</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1546069028242</updated>
     </task>
     <task id="LOCAL-00045" summary="BOJ - 1107 실패">
       <created>1546069038310</created>
@@ -710,7 +712,14 @@
       <option name="project" value="LOCAL" />
       <updated>1553685991450</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="BOJ - 5721">
+      <created>1553801895498</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1553801895499</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="TodoView">
@@ -726,7 +735,7 @@
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4971623" weight="0.16287678" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4971623" weight="0.16272825" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50283766" side_tool="true" weight="0.17185822" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -748,7 +757,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="BOJ - 10996, 10997, 13015" />
     <MESSAGE value="BOJ - 2098 fail 진짜 모르겠다 ㅡㅡ" />
     <MESSAGE value="BOJ - 3054" />
     <MESSAGE value="BOJ - 15988, 2098" />
@@ -773,16 +781,10 @@
     <MESSAGE value="BOJ - 5212, 2823" />
     <MESSAGE value="BOJ - 2140, 1713" />
     <MESSAGE value="BOJ - 16677, 16674" />
-    <option name="LAST_COMMIT_MESSAGE" value="BOJ - 16677, 16674" />
+    <MESSAGE value="BOJ - 5721" />
+    <option name="LAST_COMMIT_MESSAGE" value="BOJ - 5721" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2019/1901/190111.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2019/1901/190114.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -1073,6 +1075,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2019/1903/190329.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/1903/190331.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="43" column="12" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="43" selection-end-column="12" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
