@@ -1,4 +1,4 @@
-# BOJ - SCCC C
+# BOJ - 17129
 import sys
 read = lambda: sys.stdin.readline().rstrip()
 n, m = map(int, read().split())
@@ -47,7 +47,7 @@ print('NIE')
 """
 exit()
 
-# BOJ - SCCC B
+# BOJ - 17128
 import sys
 read = lambda: sys.stdin.readline().rstrip()
 write = lambda x: sys.stdout.write(str(x)+'\n')
@@ -74,7 +74,7 @@ for i in tp:
 """
 exit()
 
-# BOJ - SCCC A
+# BOJ - 17127
 n = int(input())
 arr = tuple(map(int, input().split()))
 cache = [[1]*n for _ in range(n)]
