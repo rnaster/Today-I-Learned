@@ -1,23 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/2019/1905/190503.py" line="44" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3f7e58c-e206-4ac6-95eb-52b8da83c8f4" name="Default" comment="programmers - 2018 kakao blind - 후보키, 실패율">
-      <change afterPath="$PROJECT_DIR$/../GoogleNet/model/fashion-mnist/v9/architecture.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2019/1904/190430.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GoogleNet/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../GoogleNet/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GoogleNet/model/fashion-mnist/v0/architecture.json" beforeDir="false" afterPath="$PROJECT_DIR$/../GoogleNet/model/fashion-mnist/v0/architecture.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GoogleNet/model/fashion-mnist/v4/architecture.json" beforeDir="false" afterPath="$PROJECT_DIR$/../GoogleNet/model/fashion-mnist/v4/architecture.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GoogleNet/model/fashion-mnist/v4/plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/../GoogleNet/model/fashion-mnist/v4/plot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GoogleNet/model/fashion-mnist/v5/architecture.json" beforeDir="false" afterPath="$PROJECT_DIR$/../GoogleNet/model/fashion-mnist/v5/architecture.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GoogleNet/model/fashion-mnist/v5/plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/../GoogleNet/model/fashion-mnist/v5/plot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GoogleNet/model/fashion-mnist/v6/architecture.json" beforeDir="false" afterPath="$PROJECT_DIR$/../GoogleNet/model/fashion-mnist/v6/architecture.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GoogleNet/model/fashion-mnist/v6/plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/../GoogleNet/model/fashion-mnist/v6/plot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GoogleNet/model/fashion-mnist/v7/architecture.json" beforeDir="false" afterPath="$PROJECT_DIR$/../GoogleNet/model/fashion-mnist/v7/architecture.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GoogleNet/model/fashion-mnist/v8/architecture.json" beforeDir="false" afterPath="$PROJECT_DIR$/../GoogleNet/model/fashion-mnist/v8/architecture.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GoogleNet/src/googleNet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../GoogleNet/src/googleNet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GoogleNet/src/nn/vanillaCNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/../GoogleNet/src/nn/vanillaCNN.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GoogleNet/src/pipeline.py" beforeDir="false" afterPath="$PROJECT_DIR$/../GoogleNet/src/pipeline.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="e3f7e58c-e206-4ac6-95eb-52b8da83c8f4" name="Default" comment="programmers - 2017 kakao blind - n진수 게임">
+      <change afterPath="$PROJECT_DIR$/2019/1905/190503.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,21 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2019/1904/190426.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2019/1904/190427.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2019/1904/190430.py">
+        <entry file="file://$PROJECT_DIR$/2019/1905/190503.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            <state relative-caret-position="697">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
@@ -106,9 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2019/1902/190220.py" />
-        <option value="$PROJECT_DIR$/2019/1902/190227.py" />
-        <option value="$PROJECT_DIR$/2019/1902/190228.py" />
         <option value="$PROJECT_DIR$/2019/1903/190301.py" />
         <option value="$PROJECT_DIR$/2019/1903/190303.py" />
         <option value="$PROJECT_DIR$/2019/1903/190304.py" />
@@ -157,6 +132,9 @@
         <option value="$PROJECT_DIR$/2019/1904/test.py" />
         <option value="$PROJECT_DIR$/2019/1904/test2.py" />
         <option value="$PROJECT_DIR$/2019/1904/190430.py" />
+        <option value="$PROJECT_DIR$/2019/1905/190501.py" />
+        <option value="$PROJECT_DIR$/2019/1905/190502.py" />
+        <option value="$PROJECT_DIR$/2019/1905/190503.py" />
       </list>
     </option>
   </component>
@@ -191,6 +169,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -207,13 +186,12 @@
               <item name="today-i-learned" type="b2602c69:ProjectViewProjectNode" />
               <item name="today-i-learned" type="462c0819:PsiDirectoryNode" />
               <item name="2019" type="462c0819:PsiDirectoryNode" />
-              <item name="1904" type="462c0819:PsiDirectoryNode" />
+              <item name="1905" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -240,49 +218,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.190430">
-    <configuration name="190426" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="today-i-learned" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019/1904" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019/1904/190426.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="190427" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="today-i-learned" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019/1904" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019/1904/190427.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.190503">
     <configuration name="190430" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="today-i-learned" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -296,6 +232,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019/1904/190430.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="190502" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="today-i-learned" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019/1905" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\yun\Desktop\today-i-learned\2019\1905\190503.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="190503" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="today-i-learned" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019/1905" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019/1905/190503.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -347,19 +325,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.190426" />
-      <item itemvalue="Python.190427" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.test2" />
       <item itemvalue="Python.190430" />
+      <item itemvalue="Python.190502" />
+      <item itemvalue="Python.190503" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.190503" />
+        <item itemvalue="Python.190502" />
         <item itemvalue="Python.190430" />
         <item itemvalue="Python.test2" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.190427" />
-        <item itemvalue="Python.190426" />
       </list>
     </recent_temporary>
   </component>
@@ -373,13 +351,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530279640320</updated>
-    </task>
-    <task id="LOCAL-00061" summary="BOJ - 2748, 9012">
-      <created>1548685548222</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1548685548223</updated>
     </task>
     <task id="LOCAL-00062" summary="BOJ - 2920, 10845, 2662">
       <created>1548912107198</created>
@@ -717,7 +688,14 @@
       <option name="project" value="LOCAL" />
       <updated>1556300376666</updated>
     </task>
-    <option name="localTasksCounter" value="110" />
+    <task id="LOCAL-00110" summary="programmers - 2017 kakao blind - n진수 게임">
+      <created>1556608128469</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1556608128470</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="TodoView">
@@ -731,9 +709,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4971623" weight="0.16023268" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4971623" weight="0.15970387" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50283766" side_tool="true" weight="0.17185822" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -755,7 +732,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="BOJ - 1011 renew" />
     <MESSAGE value="BOJ - 2616" />
     <MESSAGE value="BOJ - 1720" />
     <MESSAGE value="BOJ - 2228 fail" />
@@ -780,12 +756,10 @@
     <MESSAGE value="- augmentation 구현&#10;- augmented_rate로 augmentation 여부 결정" />
     <MESSAGE value="programmers - 2018 blind kakao - 오픈채팅방, 셔틀버스&#10;BOJ - 17130" />
     <MESSAGE value="programmers - 2018 kakao blind - 실패율&#10;BOJ - 2138" />
-    <option name="LAST_COMMIT_MESSAGE" value="programmers - 2018 kakao blind - 실패율&#10;BOJ - 2138" />
+    <MESSAGE value="programmers - 2017 kakao blind - n진수 게임" />
+    <option name="LAST_COMMIT_MESSAGE" value="programmers - 2017 kakao blind - n진수 게임" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2019/1903/190303.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/2019/1903/190301.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
@@ -1066,9 +1040,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2019/1904/190426.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/2019/1904/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1089,13 +1060,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/2019/1904/190426.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/2019/1904/190427.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/2019/1904/190430.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/1905/190503.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        <state relative-caret-position="697">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
