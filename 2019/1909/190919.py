@@ -1,3 +1,21 @@
+# BOJ - 1978
+p = set()
+arr = [*range(1001)]
+for i in range(2, 1000):
+    if arr[i] > 0:
+        p.add(i)
+        for j in range(2*i, 1000, i):
+            arr[j] = 0
+ans = 0; input()
+for a in map(int, input().split()):
+    if a in p: ans += 1
+print(ans)
+"""
+4
+1 3 5 7
+"""
+exit()
+
 # BOJ - 13460
 n, m = map(int, input().split())
 arr = [[*input()] for _ in range(n)]
