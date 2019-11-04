@@ -1,5 +1,3 @@
-
-*.exe
 .idea/
-*test*
+*test*.py
 *input*
